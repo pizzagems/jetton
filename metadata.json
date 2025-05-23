@@ -1,0 +1,7 @@
+{
+  "name": "PizzaGems",
+  "symbol": "PIZZA",
+  "decimals": "9",
+  "image": "https://raw.githubusercontent.com/pizzagems/jetton/main/coin-256.png",
+  "description": "PizzaGems Jetton"
+}
